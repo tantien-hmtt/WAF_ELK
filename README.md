@@ -49,11 +49,11 @@ Dự án này tập trung vào việc triển khai ModSecurity như một Web Ap
 
 ### Kịch bản tấn công
 1. SQLi 
-[kết quả sql](img/sql.png)
+![kết quả sql](img/sql.png)
 2. XSS
-[kết quả sql](img/xss.png)
+![kết quả sql](img/xss.png)
 3. File inclusion 
-[kết quả sql](img/fileinclude.png)
+![kết quả sql](img/fileinclude.png)
 ## Cài đặt ModSecurity và ELK Stack
 
 ### Cài đặt ModSecurity
