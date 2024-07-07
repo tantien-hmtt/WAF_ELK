@@ -112,6 +112,5 @@ Dự án này tập trung vào việc triển khai ModSecurity như một Web Ap
     sudo systemctl enable filebeat
     ```
 
-## Kết quả
-**Note: Thêm hình ảnh kết quả của các kịch bản tấn công và dashboard của Kibana vào đây.**
+
 
