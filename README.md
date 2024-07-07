@@ -44,10 +44,16 @@ Dự án này tập trung vào việc triển khai ModSecurity như một Web Ap
 - Quản lý log: ELK Stack
 - Attacker: Kali Linux/Windows
 - Router: NAT traffic Routing
+  ![kiến trúc](img/archi.png)
+  ![table](img/tablerole.png)
 
 ### Kịch bản tấn công
-
-
+1. SQLi 
+[kết quả sql](img/sql.png)
+2. XSS
+[kết quả sql](img/xss.png)
+3. File inclusion 
+[kết quả sql](img/fileinclude.png)
 ## Cài đặt ModSecurity và ELK Stack
 
 ### Cài đặt ModSecurity
